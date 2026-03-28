@@ -1,0 +1,9 @@
+.vs/
+*.vcxproj.user
+*.log
+*.tmp
+*.obj
+*.exe
+*.pdb
+bin/
+build/
